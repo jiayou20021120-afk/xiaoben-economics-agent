@@ -1,0 +1,4 @@
+计量经济学（戴丽娜等著）图书介绍、前言与目录
+https://www.tup.tsinghua.edu.cn/bookscenter/book_11220901.html
+核读摘记（2026-11-03）
+第12章介绍建模应用过程，附录B有EViews操作与Stata代码。可选为模型复算对象。页面没有披露书稿审查过程。
